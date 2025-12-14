@@ -1,8 +1,5 @@
 /**************************************************
- 
- ALTERAÇÃO 1
-
- Autor: Landry Duailibe
+  Autor: Landry Duailibe
  Data: 20/10/2025
 
  MVPCONF 2025: Entendendo o uso da TempDB
